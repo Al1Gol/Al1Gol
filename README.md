@@ -4,6 +4,9 @@
 
 Корепанов Альберт Александрович
 Стаж производственной разработки на Django Rest Framework - 1 год.
+
+Контакты для связи:
 <a>
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
 </a>
+
