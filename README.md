@@ -18,6 +18,6 @@
 </p>
 <p>
   <a href=mailto:"al1working@mail.ru">
-      <img src="https://img.shields.io/badge/my-email?style=flat-squeare&logo=gmail&logoColor=red"/>
+      <img src="https://img.shields.io/badge/my-email?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="50"/>
   </a>
 </p>
