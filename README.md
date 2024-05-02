@@ -8,7 +8,7 @@
 <p>Контакты для связи:</p>
 <p>
   <a href="https://t.me/al1gol">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white&with=400">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white&with=400" width="500">
   </a>
 </p>
 <p>
