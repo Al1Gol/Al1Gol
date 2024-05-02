@@ -13,6 +13,6 @@
 </p>
 <p>
   <a href="https://vk.com/al1gol">
-        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" with="800"/>
+        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" with="400"/>
   </a>
 </p>
