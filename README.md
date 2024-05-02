@@ -8,6 +8,9 @@
 <p>Контакты для связи:</p>
 <p>
   <a href="https://t.me/al1gol">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://vk.com/al1gol">
+        <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk"/>
   </a>
 </p>
