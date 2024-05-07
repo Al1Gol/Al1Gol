@@ -70,7 +70,7 @@
 </p>
 <p>
   <a href=mailto:"al1working@mail.ru">
-      <img src="https://img.shields.io/badge/hh.ru-FFFFFF?style=flat-squeare&logoColor=red" width="100" height="20"/>
+      <img src="https://img.shields.io/badge/hh-ru-AAAAAA?style=flat-squeare&logoColor=red" width="100" height="20"/>
   </a>
 </p>
 <hr>
