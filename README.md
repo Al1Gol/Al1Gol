@@ -68,4 +68,4 @@
       <img src="https://img.shields.io/badge/my-email-FFFFFF?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="20"/>
   </a>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Al1Gol&theme=dark&locale=ru&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Al1Gol&theme=dark&locale=ru&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
