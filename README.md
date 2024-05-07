@@ -7,14 +7,15 @@
 <p>Стаж производственной разработки на Django Rest Framework - 1 год.</p>
 <hr>
 Используемый стэк технологий:
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" width="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJuB8ngTuQFAUAWiVe6ODHVKQKdJICOzH2_-ZNDbdUDtA9Nfe4QvMHZLAnnceKCcZSFU&usqp=CAU" width="30"/>
-
-
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJuB8ngTuQFAUAWiVe6ODHVKQKdJICOzH2_-ZNDbdUDtA9Nfe4QvMHZLAnnceKCcZSFU&usqp=CAU" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" width="30"/>
+  </div>
 <hr>
 <p>Контакты для связи:</p>
 <p>
