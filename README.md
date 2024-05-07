@@ -72,5 +72,5 @@
 <h1>СТАТИСТИКА ПО GITHUB</h1>
 <hr>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Al1Gol&theme=dark&locale=ru&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al1Gol&layout=compact&langs_count=8&card_width=320&theme=dark&custom_title='Статистика по используемым языкам программирования'" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al1Gol&layout=compact&langs_count=8&card_width=320&theme=dark&custom_title='LANGUAGE STAT'" />
 </hr>
