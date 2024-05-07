@@ -68,4 +68,9 @@
       <img src="https://img.shields.io/badge/my-email-FFFFFF?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="20"/>
   </a>
 </p>
+<hr>
+<h1>СТАТИСТИКА ПО GITHUB</h1>
+<hr>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Al1Gol&theme=dark&locale=ru&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</hr>
