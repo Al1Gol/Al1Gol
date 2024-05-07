@@ -68,6 +68,11 @@
       <img src="https://img.shields.io/badge/my-email-FFFFFF?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="20"/>
   </a>
 </p>
+<p>
+  <a href=mailto:"al1working@mail.ru">
+      <img src="https://img.shields.io/badge/hh.ru-FFFFFF?style=flat-squeare&logoColor=red" width="100" height="20"/>
+  </a>
+</p>
 <hr>
 <h1>СТАТИСТИКА ПО GITHUB</h1>
 <hr>
