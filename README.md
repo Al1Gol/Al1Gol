@@ -6,6 +6,11 @@
 <p>Корепанов Альберт Александрович</p>
 <p>Стаж производственной разработки на Django Rest Framework - 1 год.</p>
 <hr>
+Используемый стэк технологий:
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="100"/>
+
+
+<hr>
 <p>Контакты для связи:</p>
 <p>
   <a href="https://t.me/al1gol">
