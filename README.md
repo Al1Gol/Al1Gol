@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" width="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
-<img src="https://miro.medium.com/v2/resize:fill:320:214/1*_lJ0RYOkV5CQSJZzEEzjgg.jpeg" width="30"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJuB8ngTuQFAUAWiVe6ODHVKQKdJICOzH2_-ZNDbdUDtA9Nfe4QvMHZLAnnceKCcZSFU&usqp=CAU" width="30"/>
 
 
 <hr>
