@@ -64,13 +64,13 @@
   </a>
 </p>
 <p>
-  <a href=mailto:"al1working@mail.ru">
-      <img src="https://img.shields.io/badge/my-email-ff0000?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="20"/>
+  <a href="https://stavropol.hh.ru/resume/12c6eed0ff09be8f7c0039ed1f75373639326d">
+      <img src="https://img.shields.io/badge/head-hunter-ff0000?style=flat-squeare&logoColor=red" width="100" height="20"/>
   </a>
 </p>
 <p>
   <a href=mailto:"al1working@mail.ru">
-      <img src="https://img.shields.io/badge/head-hunter-ff0000?style=flat-squeare&logoColor=red" width="100" height="20"/>
+      <img src="https://img.shields.io/badge/my-email-ff0000?style=flat-squeare&logo=gmail&logoColor=red" width="100" height="20"/>
   </a>
 </p>
 <hr>
